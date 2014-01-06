@@ -1,1 +1,9 @@
-Test
+plan-annotate is a small OpenLayers-based application for annotating georeferenced raster files with other raster files (e.g. images or drawings).
+
+== Attribution of example data ==
+
+plan-annotate uses example data from wikimedia commons:
+
+The file example-data/Relief_Taunus_v2.png is a modified version of http://commons.wikimedia.org/wiki/File:Relief_Taunus.jpg?uselang=de , downloaded on 2014-01-06 and licensed as CC-BY-SA 2.0. Creator is "Geograph 17:54, 12. Okt. 2007 (CEST)" (see commons file page for more information).
+
+The file example-data/Relief_Taunus_v2_modifiziert.tif is the georeferenced version of this file, created by me using Quantum GIS ( http://www.qgis.org )
